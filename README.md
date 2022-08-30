@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a guide to build a scraping service using fastAPI and facebook_page_scraper, then store the scraping data in MongoDB, and finally dockerize it.
+This project is a guide to build a scraping service using fastAPI and [facebook_page_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper), then store the scraping data in MongoDB, and finally dockerize it.
 
 ## Docker 
 
@@ -14,7 +14,7 @@ sudo docker-compose up
 
 ## Details & Outputs
 
-- To test the service, we created a Facebook page Generalsoftwareengineeringposts containing 10 posts.
+- To test the service, we created a Facebook page [Generalsoftwareengineeringposts](https://www.facebook.com/Generalsoftwareengineeringposts-102394349277873/) containing 10 posts.
 
 
 - We created a GET HTTP method to start the scraping of the mentioned FB page. The output of "http://127.0.0.1:8008/default_scraping" is:
