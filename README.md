@@ -266,7 +266,7 @@ curl -X POST -H "Content-type: application/json" -d "{\"page_name\" : \"Generals
 ```
 
 
-- And to check the scraping data posts stored in mongodb, you need to go to "http://127.0.0.1:8008/display_raw_documents":
+- And to check the scraping data posts stored in mongodb, you need to go to "http://127.0.0.1:8008/display_cleaned_documents":
 
 ```bash
 {
@@ -321,7 +321,7 @@ curl -X POST -H "Content-type: application/json" -d "{\"page_name\" : \"Generals
 ```
 
 
-## Test 
+## Test (CI)
 
 To test the APIs, we used pytest python library. we created some unit tests in "test_app.py".
 
@@ -330,7 +330,7 @@ We can confirm locally that the tests pass by running:
 python -m pytest
 ```
 
-But, We'd like to run those unit tests on every pull request such that we don't accidentally introduce code that breaks them.
+But, We'd like to run those unit tests on every push and pull request (we created 'testbranch' branch for this) such that we don't accidentally introduce code that breaks them.
 
 To set that up, we are going to use GitHub Actions by creating a file in our repository over at .github/workflows/unit-tests.yml.
 
