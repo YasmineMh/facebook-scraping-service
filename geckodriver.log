@@ -1,0 +1,200 @@
+1661686733061	geckodriver	INFO	Listening on 127.0.0.1:59519
+1661686733572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "38231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6lFCXI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661686744011	Marionette	INFO	Marionette enabled
+1661686744015	Marionette	INFO	Listening on port 39003
+WebDriver BiDi listening on ws://localhost:38231
+Read port: 39003
+1661686744221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6lFCXI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38231/devtools/browser/3ae12f29-1e62-4d92-880a-9fad8f5a9027
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661686774941	Marionette	INFO	Stopped listening on port 39003
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661763653957	geckodriver	INFO	Listening on 127.0.0.1:41015
+1661763654464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "33231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWcleWy"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661763654876	Marionette	INFO	Marionette enabled
+1661763654880	Marionette	INFO	Listening on port 34629
+WebDriver BiDi listening on ws://localhost:33231
+Read port: 34629
+1661763655072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWcleWy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33231/devtools/browser/ff27f653-8b80-42ce-bd40-5e0df434a2e6
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661764103963	geckodriver	INFO	Listening on 127.0.0.1:53763
+1661764104475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "34761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile93qEpW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661764104898	Marionette	INFO	Marionette enabled
+1661764104901	Marionette	INFO	Listening on port 42439
+WebDriver BiDi listening on ws://localhost:34761
+Read port: 42439
+1661764105150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile93qEpW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34761/devtools/browser/c17778ad-0875-48a5-b1a8-12179c15ec5a
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661764165915	Marionette	INFO	Stopped listening on port 42439
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile93qEpW/protections.sqlite
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661764196797	geckodriver	INFO	Listening on 127.0.0.1:54639
+1661764197308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "53707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerDvwpq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661764197668	Marionette	INFO	Marionette enabled
+1661764197672	Marionette	INFO	Listening on port 36031
+WebDriver BiDi listening on ws://localhost:53707
+Read port: 36031
+1661764197797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerDvwpq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53707/devtools/browser/184ab1c1-1cc0-475a-88bb-3715b99c8308
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661764258613	Marionette	INFO	Stopped listening on port 36031
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilerDvwpq/protections.sqlite
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661764328065	geckodriver	INFO	Listening on 127.0.0.1:60329
+1661764328577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "51447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQEr0kc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661764328921	Marionette	INFO	Marionette enabled
+1661764328925	Marionette	INFO	Listening on port 45535
+WebDriver BiDi listening on ws://localhost:51447
+Read port: 45535
+1661764329140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQEr0kc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51447/devtools/browser/000e6631-0ca0-4715-bc61-4f0071038e32
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661764344993	Marionette	INFO	Stopped listening on port 45535
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1661766974182	geckodriver	INFO	Listening on 127.0.0.1:37367
+1661766974687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "49351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRd07B7"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661766975018	Marionette	INFO	Marionette enabled
+1661766975024	Marionette	INFO	Listening on port 44259
+WebDriver BiDi listening on ws://localhost:49351
+Read port: 44259
+1661766975204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRd07B7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49351/devtools/browser/94094f53-85ff-4376-8309-b4357ce8e692
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661766990029	Marionette	INFO	Stopped listening on port 44259
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661767667284	geckodriver	INFO	Listening on 127.0.0.1:36455
+1661767667795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "53369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBtNM5b"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661767668134	Marionette	INFO	Marionette enabled
+1661767668137	Marionette	INFO	Listening on port 34921
+WebDriver BiDi listening on ws://localhost:53369
+Read port: 34921
+1661767668336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBtNM5b/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53369/devtools/browser/f8fc0ab3-d77f-42d2-9691-ddaa99376cf4
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661767683208	Marionette	INFO	Stopped listening on port 34921
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661768835186	geckodriver	INFO	Listening on 127.0.0.1:40873
+1661768835697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "60419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5YWiAE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661768836128	Marionette	INFO	Marionette enabled
+1661768836132	Marionette	INFO	Listening on port 37605
+WebDriver BiDi listening on ws://localhost:60419
+Read port: 37605
+1661768836327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5YWiAE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60419/devtools/browser/2097466a-a2cf-4fe1-9104-deb758d2ce0f
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iv2F4/yv/l/en_US/Xrz16iiU6uh.js?_nc_x=Ij3Wp8lg5Kz, line 54: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661768900378	Marionette	INFO	Stopped listening on port 37605
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile5YWiAE/protections.sqlite
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1661769479904	geckodriver	INFO	Listening on 127.0.0.1:41475
+1661769480411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--ignore-certificate-errors" "--disable-gpu" "--log-level=3" "--disable-notifications" "--disable-popup-blocking" "--remote-debugging-port" "59109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesV9CBc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1661769480736	Marionette	INFO	Marionette enabled
+1661769480740	Marionette	INFO	Listening on port 42815
+WebDriver BiDi listening on ws://localhost:59109
+Read port: 42815
+1661769480949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesV9CBc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59109/devtools/browser/aac64f3f-372a-4167-8543-07ba4d6891cc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iqES4/yI/l/en_US/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+JavaScript error: https://www.facebook.com/MetaAI/, line 1: SyntaxError: unexpected token: ':'
+1661769558038	Marionette	INFO	Stopped listening on port 42815
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
